@@ -1,0 +1,10 @@
+Session Information:-
+
+Date:  3 Mar 2023
+Session Start Time: 16:12
+Time of Log: 16:17
+Name: BioSemi
+Type: EEG
+Sample Rate: 100.0
+Channel Count: 8
+Source Id: myuid34234
